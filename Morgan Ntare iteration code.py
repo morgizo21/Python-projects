@@ -2,6 +2,7 @@
 ## IT 261 Course Project - Iteration 04: Implementation of Milestone 2
 ## Second code update
 ## Date: 12/04/2024
+## Soccer League Management System project 
 ## Change log:
 ## - 12/13/2024: Code looks good from Iteration 4. No updated code.
 
